@@ -1,0 +1,63 @@
+#card {
+	font-family: Vollkorn SC, Georgia, Times, serif;
+	width: 305px;
+	height: 545px;
+	padding: 10px 20px 10px 20px;
+	margin: 50px 0 0 50px;
+  	border: 1px solid rgba(233, 233, 233, 2);
+	box-shadow: 7px 7px 10px darkgrey;
+	background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKfPfC9DC8iA5WjjyHTPHVNGmklocjszUh0uKZI21YWuI4B3gb');
+	
+	
+    }
+.name {
+	font-family: Kavivanar, Georgia, Times, serif;
+	font-size: 24px;
+	margin: 15px 0 20px 0;
+	text-shadow: #fff -1px -1px 0, 
+                 #333 0 0 10px;
+	
+}
+
+img {
+	width: 300px;
+	height: auto;
+	padding: 0;
+	margin: 0;
+	box-shadow: 0px 0px 30px 3px rgba(14,30,123,0.58);
+	-webkit-box-shadow: 0px 0px 30px 3px rgba(14,30,123,0.58);
+	-moz-box-shadow: 0px 0px 30px 3px rgba(14,30,123,0.58);
+	border: 1px solid rgba(233, 233, 233, 2);
+	border-radius: 6px 6px 0 0;
+	
+}
+
+
+.information {
+	width: 280px;
+	height: 240px;
+	text-shadow: 0.3px 0.3px 0.1px rgb(182, 179, 179);
+	border: 1px solid rgba(233, 233, 233, 2);
+	padding: 0 10px 20px 10px;
+	margin: 5px 0 0 0;
+	box-shadow: 0px 0px 49px 3px rgba(14,30,123,0.58);
+	-webkit-box-shadow: 0px 0px 49px 3px rgba(14,30,123,0.58);
+	-moz-box-shadow: 0px 0px 49px 3px rgba(14,30,123,0.58);
+	border-radius: 0 0 6px 6px;
+	text-align: justify;
+	
+
+}
+
+ul {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+	text-align: left;
+}
+li > span {
+	font-weight: bold;
+ 
+  }
+  
+  
